@@ -1,0 +1,261 @@
+
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Exception in thread "main" 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Unknown Source)
+	at java.util.Scanner.next(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at java.util.Scanner.nextInt(Unknown Source)
+	at Bank.main(BankManagementSystem.java:89)
+
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Enter name : Enter address : Enter contact number : Set username : 
+Set a password (minimum 8 chars; minimum 1 digit, 1 lowercase, 1 uppercase, 1 special character[!@#$%^&*_]) :
+Enter Bank Account Type  : Enter initial deposit : 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Enter name : Enter address : Enter contact number : Set username : 
+Set a password (minimum 8 chars; minimum 1 digit, 1 lowercase, 1 uppercase, 1 special character[!@#$%^&*_]) :
+Enter Bank Account Type  : Enter initial deposit : 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Enter username : 
+Enter password : 
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Accountholder name : as
+Accountholder Account Type : saving
+Accountholder Account Balance : 5000.0
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Enter name : Enter address : Enter contact number : Set username : 
+Set a password (minimum 8 chars; minimum 1 digit, 1 lowercase, 1 uppercase, 1 special character[!@#$%^&*_]) :
+Enter Bank Account Type  : Enter initial deposit : 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : Enter username : 
+Enter password : 
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Accountholder name : harkeet singh
+Accountholder Account Type : saving account
+Accountholder Account Balance : 5000.0
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Enter Deposit amount : 
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Accountholder name : harkeet singh
+Accountholder Account Type : saving account
+Accountholder Account Balance : 5150.0
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Enter Withdraw amount :
+with Charges fee : Rs.12
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Accountholder name : harkeet singh
+Accountholder Account Type : saving account
+Accountholder Account Balance : 4895.0
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Enter payee username : Enter amount : 
+Username doesn't exist.
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Enter Bill Department : Enter Bill Amount : 
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : Accountholder name : harkeet singh
+Accountholder address : punjab
+Accountholder contact : 9989899989
+Accountholder Account Type : saving account
+Accountholder Account Balance : 2595.0
+
+-------------------
+User Menu - ( Select option 0 to 5 )
+-------------------
+
+1. Display their current balance
+2. Deposit money.
+3. WithDraw money.
+4. Transfer money.
+5. Pay utility bills
+6. User information.
+7. Log out.
+
+Enter your choice : 
+-------------------
+Welcome to Our Bank)
+-------------------
+
+1. Register account.
+2. Login.
+3. Update accounts.
+4. Exit.
+
+Enter your choice : 
